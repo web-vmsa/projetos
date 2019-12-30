@@ -1,0 +1,1 @@
+Algumas coisa sobre informações.
