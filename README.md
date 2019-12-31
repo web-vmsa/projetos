@@ -1,3 +1,1 @@
-Algumas coisa sobre informações.
-
-Alteração do krl do krl.
+Algumas coisa sobre informações do ReadMe aqui, sobre o meu código e meu repositório.
