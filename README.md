@@ -1,3 +1,1 @@
-Algumas coisa sobre informações do ReadMe aqui, sobre o meu código e meu repositório local e remoto.
-
-Tata.
+Bem-vindo ao emu GitHub, aqui você pode verificar alguns dos meus projetos e talvez me ajudar a consertar alguns.
